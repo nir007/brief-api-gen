@@ -19,10 +19,10 @@ Will generate 3 files:
 
 ### Profit
 
-* Standatr template, naming, logging, errors wrapping;
+* Standard template, naming, logging, errors wrapping;
 * Time saving. We can go to drink beer and fuck girls instead of writing stupid sql-queries;
 * Clear code, Swagger comments;
-* Easi to modify;
+* Easy to modify;
 * Functions: filtering, search for all columns and paging;
 * Validation encoming params;
 * Fast extend, join other entities etc.
