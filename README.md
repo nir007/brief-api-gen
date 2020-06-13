@@ -24,5 +24,5 @@ Will generate 3 files:
 * Clear code, Swagger comments;
 * Easy to modify;
 * Functions: filtering, search for all columns and paging;
-* Validation encoming params;
+* Validation of encoming params;
 * Fast extend, join other entities etc.
