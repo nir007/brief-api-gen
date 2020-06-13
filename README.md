@@ -9,7 +9,7 @@ $ go get -u github.com/nir007/brief-api-gen
 
 ### Usage
 
-briefapigen -connection="postgres://localhost:5432/dbname?user=guest&password=guest&sslmode=disable" -table="statuses" -en="Status" -enp="Statuses"
+brief-api-gen -connection="postgres://localhost:5432/dbname?user=guest&password=guest&sslmode=disable" -table="statuses" -en="Status" -enp="Statuses"
 
 Will generate 3 files:
 1. api_statuses.go - http handlers CRUD;
