@@ -23,6 +23,6 @@ Will generate 3 files:
 * Time saving. We can go to drink beer and fuck girls instead of writing stupid sql-queries;
 * Clear code, Swagger comments;
 * Easi to modify;
-* Functions: filtering, search fo all columns and paging;
+* Functions: filtering, search for all columns and paging;
 * Validation encoming params;
 * Fast extend, join other entities etc.
